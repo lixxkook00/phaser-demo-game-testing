@@ -1,0 +1,53 @@
+{
+    "frames": {
+        "blue": {
+            "frame": { "x": 0, "y": 158, "w": 128, "h": 128 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+            "sourceSize": { "w": 128, "h": 128 }
+        },
+        "green": {
+            "frame": { "x": 158, "y": 0, "w": 128, "h": 128 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+            "sourceSize": { "w": 128, "h": 128 }
+        },
+        "red": {
+            "frame": { "x": 158, "y": 129, "w": 128, "h": 128 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+            "sourceSize": { "w": 128, "h": 128 }
+        },
+        "white": {
+            "frame": { "x": 0, "y": 287, "w": 128, "h": 128 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+            "sourceSize": { "w": 128, "h": 128 }
+        },
+        "yellow": {
+            "frame": { "x": 129, "y": 287, "w": 128, "h": 128 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 128, "h": 128 },
+            "sourceSize": { "w": 128, "h": 128 }
+        },
+        "white-flare": {
+            "frame": { "x": 0, "y": 0, "w": 157, "h": 157 },
+            "rotated": false,
+            "trimmed": false,
+            "spriteSourceSize": { "x": 0, "y": 0, "w": 157, "h": 157 },
+            "sourceSize": { "w": 157, "h": 157 }
+        }
+    },
+    "meta": {
+        "app": "https://www.leshylabs.com/apps/sstool/",
+        "version": "Leshy SpriteSheet Tool v0.8.4",
+        "image": "particles.png",
+        "size": { "w": 286, "h": 415 },
+        "scale": 1
+    }
+}
